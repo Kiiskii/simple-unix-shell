@@ -4,8 +4,8 @@ This project is a lightweight **Unix-style command-line shell**, written in C as
 It was developed as a **group project**, where **I focused primarily on command parsing and data structures**, while my project partner focused on **command execution and process handling**.
 
 > 🤝 **Project collaborators:**  
-> - *[Your name]*  
-> - *[Teammate name]*
+> - *Anton Kiiski*  
+> - *Laura Guillen* https://github.com/solleksmori
 
 ---
 
@@ -98,3 +98,4 @@ cat file.txt | grep test
 - Managing processes and file descriptors
 - Writing stable, predictable low-level C code
 - It was built to deepen understanding of how Unix shells work internally.
+
